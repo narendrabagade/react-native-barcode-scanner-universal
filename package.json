@@ -23,6 +23,6 @@
   "homepage": "https://github.com/applean/react-native-barcode-scanner-universal#readme",
   "dependencies": {
     "react-native-barcodescanner": "https://github.com/narendrabagade/react-native-barcodescanner.git",
-    "react-native-camera": "lwansbrough/react-native-camera#bff819c574eb60a1ffdb664aa2b03d9d15c57c28"
+    "react-native-camera": "git+https://git@github.com/react-native-community/react-native-camera"
   }
 }
